@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/neo/Desktop/C - Closest Pair/build",
-  "command": "/usr/bin/gcc   -g   -o CMakeFiles/Closest_Pair_Prj.dir/main.c.o   -c \"/home/neo/Desktop/C - Closest Pair/main.c\"",
-  "file": "/home/neo/Desktop/C - Closest Pair/main.c"
-}
-]
